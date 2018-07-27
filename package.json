@@ -14,8 +14,8 @@
     "node": ">=6"
   },
   "files": [
-		"index.js"
-	],
+    "index.js"
+  ],
   "keywords": [
     "permutation",
     "permutated",
