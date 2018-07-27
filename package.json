@@ -1,6 +1,6 @@
 {
   "name": "permutated",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "𝓟ℯ𝓇𝑚𝓊𝓉𝒶𝓉ℯ𝒹: get all available combinations",
   "main": "index.js",
   "scripts": {
