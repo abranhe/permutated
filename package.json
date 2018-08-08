@@ -37,6 +37,6 @@
   "homepage": "https://github.com/abranhe/permutated#readme",
   "devDependencies": {
     "ava": "1.0.0-beta.6",
-    "xo": "^0.21.1"
+    "xo": "^0.22.0"
   }
 }
