@@ -12,6 +12,7 @@
 	<a href="https://github.com/xojs/xo"><img src="https://img.shields.io/badge/code_style-XO-5ed9c7.svg" /></a>
 	<a href="https://github.com/abranhe"><img src="https://abranhe.com/badge.svg"></a>
 	<a href="https://cash.me/$abranhe"><img src="https://cdn.abraham.gq/badges/cash-me.svg"></a>
+	<a href="https://paypal.me/abranhe/10"><img src="https://cdn.abraham.gq/badges/paypal.svg"></a>
 	<a href="https://www.patreon.com/abranhe"><img src="https://cdn.abraham.gq/badges/patreon.svg" /></a>
 	<a href="https://github.com/abranhe/permutated/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abranhe/permutated.svg" /></a>
 </p>
@@ -34,7 +35,7 @@ $ npm install permutated
 >
 > Example:
 >
->   7 letters word ~> complexity [7!](https://www.google.com/search?q=7!): 5040 available combinations to generate
+>   7 letters word ~> complexity [7!](https://www.google.com/search?q=7!): 5040 available combinations to generate
 
 # Usage
 
