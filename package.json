@@ -1,6 +1,6 @@
 {
   "name": "permutated",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "𝓟ℯ𝓇𝑚𝓊𝓉𝒶𝓉ℯ𝒹: get all available combinations",
   "scripts": {
     "test": "xo && ava && tsd"
