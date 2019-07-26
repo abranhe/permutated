@@ -2,19 +2,16 @@
   "name": "permutated",
   "version": "1.0.1",
   "description": "𝓟ℯ𝓇𝑚𝓊𝓉𝒶𝓉ℯ𝒹: get all available combinations",
-  "main": "index.js",
   "scripts": {
-    "test": "ava && xo"
+    "test": "xo && ava && tsd"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/abranhe/permutated.git"
-  },
+  "repository": "abranhe/permutated",
   "engines": {
     "node": ">=6"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ],
   "keywords": [
     "permutation",
@@ -22,21 +19,18 @@
     "permutator",
     "order-changer",
     "math",
-    "discrete-math",
-    "arranging"
+    "discrete-math"
   ],
   "author": {
     "name": "Carlos Abraham",
     "email": "abraham@abranhe.com",
-    "web": "abranhe.com"
+    "url": "abranhe.com"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/abranhe/permutated/issues"
-  },
-  "homepage": "https://github.com/abranhe/permutated#readme",
+  "homepage": "https://p.abranhe.com/permutated",
   "devDependencies": {
-    "ava": "1.0.0-beta.6",
-    "xo": "^0.21.1"
+    "ava": "*",
+    "tsd": "^0.7.3",
+    "xo": "*"
   }
 }
