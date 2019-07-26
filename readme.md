@@ -26,6 +26,10 @@ In mathematics, permutation is the act of arranging the members of a set into a 
 
 7 letters word ~> [7!](https://www.google.com/search?q=7!)  ~> 5040 available combinations to generate.
 
+## Important 
+
+This module uses [Array.prototype.flat()](https://node.green/#ES2019-features-Array-prototype--flat--flatMap--Array-prototype-flat) that was introduced on Node.js 11+. You can still use the previus version [(1.0.1)](https://www.npmjs.com/package/permutated/v/1.0.1) of permutated.
+
 ## Install
 
 ```
@@ -58,7 +62,7 @@ Type: `string`
 
 The string to permutate.
 
-## numberOfPermutations(word)
+### numberOfPermutations(word)
 
 Return Type: `number`
 

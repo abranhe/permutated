@@ -7,7 +7,7 @@
   },
   "repository": "abranhe/permutated",
   "engines": {
-    "node": ">=6"
+    "node": ">=11"
   },
   "files": [
     "index.js",
